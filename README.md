@@ -78,7 +78,15 @@ Invite your friends and colleagues to join! 🚀
 - Successfully linked accounts will be saved in `discord_goods.txt`.
 - Accounts with errors during the linking process will be logged in `discord_bads.txt`.
 - **In 99% of cases, errors occur due to invalid Discord tokens**.
-  
+
+### Linking Twitter accounts
+- In the `Data` folder, open the `twitter.txt` file.
+- Add Twitter auth_token, one per line. Each token corresponds to one Twitter account.
+- Ensure the number of Twitter tokens in `twitter.txt` matches the number of accounts in the `accs.txt` file used for linking.
+- Successfully linked accounts will be saved in `twitter_goods.txt`.
+- Accounts with errors during the linking process will be logged in `twitter_bads.txt`.
+- **In 99% of cases, errors occur due to invalid Twitter tokens**.
+ 
 ### Collecting Rewards
 - The Collect Rewards module gathers available rewards for missions and medals. It also completes a few survey-based missions.
 - Add accounts for reward collection to the `accs.txt` file in the `Data` folder.
