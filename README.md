@@ -70,6 +70,15 @@ Invite your friends and colleagues to join! 🚀
 - Use the `proxy.txt` file for proxies.
 - Successfully verified accounts will be saved in `approveWalletEmail_goods.txt`.
 - Failed verifications will appear in `approveWalletEmail_bads.txt`. Retry failed accounts if needed.
+
+### Linking Discord accounts
+- In the `Data` folder, open the `discord.txt` file.
+- Add Discord access tokens, one per line. Each token corresponds to one Discord account.
+- Ensure the number of Discord tokens in `discord.txt` matches the number of accounts in the `accs.txt` file used for linking.
+- Successfully linked accounts will be saved in `discord_goods.txt`.
+- Accounts with errors during the linking process will be logged in `discord_bads.txt`.
+- **In 99% of cases, errors occur due to invalid Discord tokens**.
+  
 ### Collecting Rewards
 - The Collect Rewards module gathers available rewards for missions and medals. It also completes a few survey-based missions.
 - Add accounts for reward collection to the `accs.txt` file in the `Data` folder.
