@@ -8,7 +8,7 @@ Automate farming nodepay.ai with our auto bot! 🚀 Farm supports multi-account,
 
 # 🎉 NODEPAY is Ready! 🎉
 
-We’ve released two versions of software for farming Grass:
+We’ve released two versions of software for farming Nodepay:
 
 
 - 🔥 FREE version works only with accounts registered through it. (Free version link in the post)
