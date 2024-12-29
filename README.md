@@ -63,15 +63,15 @@ Invite your friends and colleagues to join! 🚀
 ### Wallet Binding
 - Add accounts needing wallet binding to the `accs.txt` file in the `Data` folder.
 - Use `proxy.txt` for proxy configurations.
-- Successfully bound wallets will be logged in `addWallet_goods.txt`, with additional wallet details appended in the format: `|wallet|seed phrase|wallet_private_key`.
+- Successfully bound wallets will be logged in `addWallet_goods.txt`
 - Failed bindings will be logged in `addWallet_bads.txt`. Retry binding for failed accounts.
 ### Wallet Email Verification
 - Add accounts for email verification of wallets to the `accs.txt` file in the `Data` folder.
 - Use the `proxy.txt` file for proxies.
 - Successfully verified accounts will be saved in `approveWalletEmail_goods.txt`.
 - Failed verifications will appear in `approveWalletEmail_bads.txt`. Retry failed accounts if needed.
-### Collecting Reward Tiers
-- This mode collects rewards based on specific point or referral thresholds. Frequent use is unnecessary.
+### Collecting Rewards
+- The Collect Rewards module gathers available rewards for missions and medals. It also completes a few survey-based missions.
 - Add accounts for reward collection to the `accs.txt` file in the `Data` folder.
 - Use `proxy.txt` for proxies.
 
