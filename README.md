@@ -38,6 +38,13 @@ We’ve released two versions of software for farming Nodepay:
 Invite your friends and colleagues to join! 🚀
 
 # How to use? Documentation
+
+### Installation
+
+**Software will autimatically install in: C:\Program Files (x86)\Nodepay_free_v1.3**
+
+**You cannot change the location directory of the software**
+
 ### Setting Up CAPTCHA Key
 - In the `Data` folder, open the `config.ini` file.
 - Specify the CAPTCHA-solving service `api key` for 2Captcha.
