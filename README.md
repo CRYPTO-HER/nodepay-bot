@@ -11,8 +11,6 @@ Automate farming nodepay.ai with our auto bot! 🚀 Farm supports multi-account,
 
 ## Stable VPS/VDS servers for crypto farming
 - [VPS/VDS servers for farming](https://powervps.net/?from=77161)
-- [Click here](https://powervps.net/?from=77161)
-- [Click here](https://powervps.net/?from=77161)
 
 # 🎉 NODEPAY is Ready! 🎉
 
