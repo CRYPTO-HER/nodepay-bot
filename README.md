@@ -9,9 +9,6 @@ Automate farming nodepay.ai with our auto bot! 🚀 Farm supports multi-account,
 ## Residential Proxy $1.5/GB
 - 📩 Telegram Bot: [https://t.me/CRYPT0HER_proxysBot](http://t.me/CRYPT0HER_proxysBot?start=301567601)
 
-## Stable VPS/VDS servers for crypto farming
-- [VPS/VDS servers for farming](https://powervps.net/?from=77161)
-
 # 🎉 NODEPAY is Ready! 🎉
 
 We’ve released two versions of software for farming Nodepay:
@@ -38,8 +35,16 @@ We’ve released two versions of software for farming Nodepay:
 
 🛠 What else can we offer?
 - Unlimited residential proxies (price negotiable, depends on server count).
-- Traffic-based proxies — just $1.5 per GB (coming soon).
-- Upcoming software will support projects like Pipe Network, Bless, Gradient, and Down.
+- Traffic-based proxies — just $1.5 per GB [https://t.me/CRYPT0HER_proxysBot](http://t.me/CRYPT0HER_proxysBot?start=301567601)
+- Another our softwares:
+- - [Grass](https://github.com/CRYPTO-HER/grass-bot)
+- - [Dawn](https://github.com/CRYPTO-HER/dawn-bot)
+- - [LayerEdge](https://github.com/CRYPTO-HER/LayerEdge-bot)
+- - [Gradient](https://github.com/CRYPTO-HER/gradient-bot)
+- - [NodeGo](https://github.com/CRYPTO-HER/NodeGo-bot)
+- - [Bless](https://github.com/CRYPTO-HER/bless-bot)
+- - [DeSpeed](https://github.com/CRYPTO-HER/DeSpeed-bot)
+- - [NodePay](https://github.com/CRYPTO-HER/nodepay-bot)
 
 Invite your friends and colleagues to join! 🚀
 
